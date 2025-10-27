@@ -1,0 +1,9 @@
+{
+	"name": "df-prgazureproject",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "878ef997-95ae-4f42-ba7a-805fe7f43f18",
+		"tenantId": "bc10e052-b01c-4849-9967-ee7ec74fc9d8"
+	}
+}
